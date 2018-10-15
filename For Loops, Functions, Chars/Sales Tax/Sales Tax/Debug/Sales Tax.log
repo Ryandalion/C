@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\sales tax\sales tax\main.c(33): warning C4013: 'system' undefined; assuming extern returning int
+  Sales Tax.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Sales Tax\Debug\Sales Tax.exe
