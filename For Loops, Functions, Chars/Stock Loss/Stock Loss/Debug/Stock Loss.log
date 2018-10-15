@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\stock loss\stock loss\main.c(13): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'double *'
+c:\users\ryan\desktop\c\for loops, functions, chars\stock loss\stock loss\main.c(15): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'double *'
+c:\users\ryan\desktop\c\for loops, functions, chars\stock loss\stock loss\main.c(22): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\ryan\desktop\c\for loops, functions, chars\stock loss\stock loss\main.c(23): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\ryan\desktop\c\for loops, functions, chars\stock loss\stock loss\main.c(24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\ryan\desktop\c\for loops, functions, chars\stock loss\stock loss\main.c(26): warning C4013: 'system' undefined; assuming extern returning int
+  Stock Loss.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Stock Loss\Debug\Stock Loss.exe
