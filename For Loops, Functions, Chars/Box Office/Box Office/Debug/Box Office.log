@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\box office\box office\main.c(38): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\for loops, functions, chars\box office\box office\main.c(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Box Office.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Box Office\Debug\Box Office.exe
