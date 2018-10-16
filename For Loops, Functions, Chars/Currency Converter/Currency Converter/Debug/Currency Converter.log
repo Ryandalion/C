@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\currency converter\currency converter\main.c(14): warning C4477: 'scanf' : format string '%ld' requires an argument of type 'long *', but variadic argument 1 has type 'double *'
+c:\users\ryan\desktop\c\for loops, functions, chars\currency converter\currency converter\main.c(20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\ryan\desktop\c\for loops, functions, chars\currency converter\currency converter\main.c(21): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\ryan\desktop\c\for loops, functions, chars\currency converter\currency converter\main.c(22): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\ryan\desktop\c\for loops, functions, chars\currency converter\currency converter\main.c(24): warning C4013: 'system' undefined; assuming extern returning int
+  Currency Converter.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Currency Converter\Debug\Currency Converter.exe
