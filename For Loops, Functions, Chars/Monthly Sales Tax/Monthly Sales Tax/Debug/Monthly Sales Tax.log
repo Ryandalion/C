@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\monthly sales tax\monthly sales tax\main.c(18): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'int *'
+c:\users\ryan\desktop\c\for loops, functions, chars\monthly sales tax\monthly sales tax\main.c(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\monthly sales tax\monthly sales tax\main.c(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\monthly sales tax\monthly sales tax\main.c(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\monthly sales tax\monthly sales tax\main.c(27): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 2 has type 'int'
+c:\users\ryan\desktop\c\for loops, functions, chars\monthly sales tax\monthly sales tax\main.c(35): warning C4013: 'system' undefined; assuming extern returning int
+  Monthly Sales Tax.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Monthly Sales Tax\Debug\Monthly Sales Tax.exe
