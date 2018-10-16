@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\property tax calculator\property tax calculator\main.c(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\property tax calculator\property tax calculator\main.c(24): warning C4013: 'system' undefined; assuming extern returning int
+  Property Tax Calculator.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Property Tax Calculator\Debug\Property Tax Calculator.exe
