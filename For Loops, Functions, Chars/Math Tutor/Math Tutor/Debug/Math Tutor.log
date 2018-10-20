@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\math tutor\math tutor\main.c(8): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\for loops, functions, chars\math tutor\math tutor\main.c(15): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\for loops, functions, chars\math tutor\math tutor\main.c(30): warning C4013: 'system' undefined; assuming extern returning int
+  Math Tutor.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Math Tutor\Debug\Math Tutor.exe
