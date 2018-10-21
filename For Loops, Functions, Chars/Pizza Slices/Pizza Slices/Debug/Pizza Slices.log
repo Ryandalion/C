@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\pizza slices\pizza slices\main.c(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\pizza slices\pizza slices\main.c(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\pizza slices\pizza slices\main.c(29): warning C4013: 'system' undefined; assuming extern returning int
+  Pizza Slices.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Pizza Slices\Debug\Pizza Slices.exe
