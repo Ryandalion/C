@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\interest earned calculator\interest earned calculator\main.c(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\interest earned calculator\interest earned calculator\main.c(38): warning C4013: 'system' undefined; assuming extern returning int
+  Interest Earned Calculator.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Interest Earned Calculator\Debug\Interest Earned Calculator.exe
