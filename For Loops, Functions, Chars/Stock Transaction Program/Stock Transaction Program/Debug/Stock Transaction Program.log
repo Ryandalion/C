@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\stock transaction program\stock transaction program\main.c(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\stock transaction program\stock transaction program\main.c(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\stock transaction program\stock transaction program\main.c(38): warning C4013: 'system' undefined; assuming extern returning int
+  Stock Transaction Program.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Stock Transaction Program\Debug\Stock Transaction Program.exe
