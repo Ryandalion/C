@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\for loops, functions, chars\monthly loan payment\monthly loan payment\main.c(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\for loops, functions, chars\monthly loan payment\monthly loan payment\main.c(31): warning C4013: 'system' undefined; assuming extern returning int
+  Monthly Loan Payment.vcxproj -> C:\Users\Ryan\Desktop\C\For Loops, Functions, Chars\Monthly Loan Payment\Debug\Monthly Loan Payment.exe
