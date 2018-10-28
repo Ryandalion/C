@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\ryan\desktop\c\decision structures\bank charges\bank charges\main.c(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\decision structures\bank charges\bank charges\main.c(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\decision structures\bank charges\bank charges\main.c(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\decision structures\bank charges\bank charges\main.c(31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\decision structures\bank charges\bank charges\main.c(36): warning C4013: 'system' undefined; assuming extern returning int
+  Bank Charges.vcxproj -> C:\Users\Ryan\Desktop\C\Decision Structures\Bank Charges\Debug\Bank Charges.exe
