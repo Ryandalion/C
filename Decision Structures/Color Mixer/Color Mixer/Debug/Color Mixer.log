@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\ryan\desktop\c\decision structures\color mixer\color mixer\main.c(61): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\decision structures\color mixer\color mixer\main.c(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\desktop\c\decision structures\color mixer\color mixer\main.c(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\desktop\c\decision structures\color mixer\color mixer\main.c(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\desktop\c\decision structures\color mixer\color mixer\main.c(132): warning C4018: '<': signed/unsigned mismatch
+  Color Mixer.vcxproj -> C:\Users\Ryan\Desktop\C\Decision Structures\Color Mixer\Debug\Color Mixer.exe
