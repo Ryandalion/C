@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\decision structures\geometry calculator\geometry calculator\main.c(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\decision structures\geometry calculator\geometry calculator\main.c(73): warning C4013: 'system' undefined; assuming extern returning int
+  Geometry Calculator.vcxproj -> C:\Users\Ryan\Desktop\C\Decision Structures\Geometry Calculator\Debug\Geometry Calculator.exe
