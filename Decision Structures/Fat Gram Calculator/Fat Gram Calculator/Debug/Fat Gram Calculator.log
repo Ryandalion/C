@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\ryan\desktop\c\decision structures\fat gram calculator\fat gram calculator\main.c(19): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\ryan\desktop\c\decision structures\fat gram calculator\fat gram calculator\main.c(27): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\ryan\desktop\c\decision structures\fat gram calculator\fat gram calculator\main.c(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryan\desktop\c\decision structures\fat gram calculator\fat gram calculator\main.c(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\decision structures\fat gram calculator\fat gram calculator\main.c(45): warning C4013: 'system' undefined; assuming extern returning int
+  Fat Gram Calculator.vcxproj -> C:\Users\Ryan\Desktop\C\Decision Structures\Fat Gram Calculator\Debug\Fat Gram Calculator.exe
