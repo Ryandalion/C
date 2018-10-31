@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ryan\desktop\c\decision structures\freezing and boiling points\freezing and boiling points\main.c(73): warning C4013: 'system' undefined; assuming extern returning int
+  Freezing and Boiling Points.vcxproj -> C:\Users\Ryan\Desktop\C\Decision Structures\Freezing and Boiling Points\Debug\Freezing and Boiling Points.exe
