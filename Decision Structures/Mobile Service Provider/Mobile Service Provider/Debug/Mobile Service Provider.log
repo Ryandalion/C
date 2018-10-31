@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\ryan\desktop\c\decision structures\mobile service provider\mobile service provider\main.c(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ryan\desktop\c\decision structures\mobile service provider\mobile service provider\main.c(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ryan\desktop\c\decision structures\mobile service provider\mobile service provider\main.c(116): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\decision structures\mobile service provider\mobile service provider\main.c(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c\decision structures\mobile service provider\mobile service provider\main.c(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c\decision structures\mobile service provider\mobile service provider\main.c(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Mobile Service Provider.vcxproj -> C:\Users\Ryan\Desktop\C\Decision Structures\Mobile Service Provider\Debug\Mobile Service Provider.exe
