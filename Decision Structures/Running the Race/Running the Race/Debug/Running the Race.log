@@ -1,0 +1,19 @@
+﻿  main.c
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(41): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(43): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(47): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(49): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(55): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(57): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(61): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(63): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(71): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(73): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(77): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(79): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(84): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(86): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(90): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(92): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\users\ryan\desktop\c\decision structures\running the race\running the race\main.c(107): warning C4013: 'system' undefined; assuming extern returning int
+  Running the Race.vcxproj -> C:\Users\Ryan\Desktop\C\Decision Structures\Running the Race\Debug\Running the Race.exe
