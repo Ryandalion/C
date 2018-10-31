@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\ryan\desktop\c\decision structures\speed of sound in gas\speed of sound in gas\main.c(57): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\decision structures\speed of sound in gas\speed of sound in gas\main.c(69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ryan\desktop\c\decision structures\speed of sound in gas\speed of sound in gas\main.c(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Speed of Sound in Gas.vcxproj -> C:\Users\Ryan\Desktop\C\Decision Structures\Speed of Sound in Gas\Debug\Speed of Sound in Gas.exe
