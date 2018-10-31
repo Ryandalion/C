@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\decision structures\bmi calculator\bmi calculator\main.c(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\decision structures\bmi calculator\bmi calculator\main.c(38): warning C4013: 'system' undefined; assuming extern returning int
+  BMI Calculator.vcxproj -> C:\Users\Ryan\Desktop\C\Decision Structures\BMI Calculator\Debug\BMI Calculator.exe
