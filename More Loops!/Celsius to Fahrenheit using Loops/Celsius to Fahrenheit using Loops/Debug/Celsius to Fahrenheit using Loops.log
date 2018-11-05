@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\celsius to fahrenheit using loops\celsius to fahrenheit using loops\main.c(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\more loops!\celsius to fahrenheit using loops\celsius to fahrenheit using loops\main.c(20): warning C4013: 'system' undefined; assuming extern returning int
+  Celsius to Fahrenheit using Loops.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Celsius to Fahrenheit using Loops\Debug\Celsius to Fahrenheit using Loops.exe
