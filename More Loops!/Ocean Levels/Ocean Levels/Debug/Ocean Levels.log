@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\ocean levels\ocean levels\main.c(22): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\more loops!\ocean levels\ocean levels\main.c(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ocean Levels.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Ocean Levels\Debug\Ocean Levels.exe
