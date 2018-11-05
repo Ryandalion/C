@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\weight loss calculator\weight loss calculator\main.c(30): warning C4013: 'system' undefined; assuming extern returning int
+  Weight Loss Calculator.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Weight Loss Calculator\Debug\Weight Loss Calculator.exe
