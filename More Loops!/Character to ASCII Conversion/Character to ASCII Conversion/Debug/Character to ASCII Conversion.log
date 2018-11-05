@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\character to ascii conversion\character to ascii conversion\main.c(23): warning C4013: 'system' undefined; assuming extern returning int
+  Character to ASCII Conversion.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Character to ASCII Conversion\Debug\Character to ASCII Conversion.exe
