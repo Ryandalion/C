@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\distance traveled\distance traveled\main.c(48): warning C4013: 'system' undefined; assuming extern returning int
+  Distance Traveled.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Distance Traveled\Debug\Distance Traveled.exe
