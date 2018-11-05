@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\calories burned\calories burned\main.c(16): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\more loops!\calories burned\calories burned\main.c(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c\more loops!\calories burned\calories burned\main.c(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Calories Burned.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Calories Burned\Debug\Calories Burned.exe
