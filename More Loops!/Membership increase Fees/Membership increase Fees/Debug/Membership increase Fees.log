@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\membership increase fees\membership increase fees\main.c(18): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\more loops!\membership increase fees\membership increase fees\main.c(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Membership increase Fees.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Membership increase Fees\Debug\Membership increase Fees.exe
