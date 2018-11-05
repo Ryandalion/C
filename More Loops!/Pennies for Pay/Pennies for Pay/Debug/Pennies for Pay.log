@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\pennies for pay\pennies for pay\main.c(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\more loops!\pennies for pay\pennies for pay\main.c(33): warning C4013: 'system' undefined; assuming extern returning int
+  Pennies for Pay.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Pennies for Pay\Debug\Pennies for Pay.exe
