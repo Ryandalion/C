@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\circle areas\circle areas\main.c(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\more loops!\circle areas\circle areas\main.c(22): warning C4013: 'system' undefined; assuming extern returning int
+  Circle Areas.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Circle Areas\Debug\Circle Areas.exe
