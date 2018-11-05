@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\sum of numbers\sum of numbers\main.c(29): warning C4013: 'system' undefined; assuming extern returning int
+  Sum of Numbers.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Sum of Numbers\Debug\Sum of Numbers.exe
