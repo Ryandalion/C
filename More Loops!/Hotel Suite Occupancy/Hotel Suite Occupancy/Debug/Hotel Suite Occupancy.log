@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\hotel suite occupancy\hotel suite occupancy\main.c(50): warning C4013: 'system' undefined; assuming extern returning int
+  Hotel Suite Occupancy.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Hotel Suite Occupancy\Debug\Hotel Suite Occupancy.exe
