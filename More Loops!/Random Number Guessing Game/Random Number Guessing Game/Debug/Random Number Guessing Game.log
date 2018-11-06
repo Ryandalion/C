@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\random number guessing game\random number guessing game\main.c(7): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\more loops!\random number guessing game\random number guessing game\main.c(9): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\more loops!\random number guessing game\random number guessing game\main.c(61): warning C4013: 'system' undefined; assuming extern returning int
+  Random Number Guessing Game.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Random Number Guessing Game\Debug\Random Number Guessing Game.exe
