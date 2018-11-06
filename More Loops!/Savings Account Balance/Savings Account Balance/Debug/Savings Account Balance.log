@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\savings account balance\savings account balance\main.c(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryan\desktop\c\more loops!\savings account balance\savings account balance\main.c(76): warning C4013: 'system' undefined; assuming extern returning int
+  Savings Account Balance.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Savings Account Balance\Debug\Savings Account Balance.exe
