@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\greatest and least of these\greatest and least of these\main.c(36): warning C4013: 'system' undefined; assuming extern returning int
+  Greatest and Least of These.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Greatest and Least of These\Debug\Greatest and Least of These.exe
