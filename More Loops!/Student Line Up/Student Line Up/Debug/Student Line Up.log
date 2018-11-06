@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\student line up\student line up\main.c(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\desktop\c\more loops!\student line up\student line up\main.c(49): warning C4018: '<': signed/unsigned mismatch
+  Student Line Up.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Student Line Up\Debug\Student Line Up.exe
