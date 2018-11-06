@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\rate of inflation\rate of inflation\main.c(16): warning C4476: 'printf' : unknown type field character '%' in format specifier
+c:\users\ryan\desktop\c\more loops!\rate of inflation\rate of inflation\main.c(33): warning C4013: 'system' undefined; assuming extern returning int
+  Rate of Inflation.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Rate of Inflation\Debug\Rate of Inflation.exe
