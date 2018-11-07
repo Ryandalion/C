@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\population bar chart\population bar chart\main.c(41): warning C4013: 'system' undefined; assuming extern returning int
+  Population Bar Chart.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Population Bar Chart\Debug\Population Bar Chart.exe
