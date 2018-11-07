@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\ryan\desktop\c\more loops!\total and average rainfall\total and average rainfall\main.c(40): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ryan\desktop\c\more loops!\total and average rainfall\total and average rainfall\main.c(10): warning C4101: 'months': unreferenced local variable
+  Total and Average Rainfall.vcxproj -> C:\Users\Ryan\Desktop\C\More Loops!\Total and Average Rainfall\Debug\Total and Average Rainfall.exe
